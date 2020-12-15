@@ -65,5 +65,15 @@
             android:textColor="#FFFFFF"
             app:icon="@drawable/ic_launcher_foreground"
             app:iconPadding="1dp" />
+
+        <Button
+            android:id="@+id/facebookButton"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:background="#FFFFFF"
+            android:text="Facebook"
+            android:textColor="#FFFFFF"
+            app:icon="@drawable/ic_launcher_foreground"
+            app:iconPadding="1dp" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
